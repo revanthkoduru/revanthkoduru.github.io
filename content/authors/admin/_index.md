@@ -36,12 +36,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in ELectrical and Computer Engineering
+    - course: PhD in Electrical and Computer Engineering
       institution: Purdue University
       year: 2021 - Present
     - course: B.Tech in Electrical Engineering
       institution: Indian Institute of Technology, Madras
-      year: 2024-2018
+      year: 2014-2018
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,18 +51,18 @@ skills:
       - name: Matlab
         description: ''
         percent: 90
-        icon: matlab
-        icon_pack: fab
+        icon: M
+        icon_pack: fas
       - name: Device Physics
         description: ''
         percent: 80
-        icon: chart-line
+        icon: atom
         icon_pack: fas
       - name: Python
         description: ''
         percent: 80
         icon: python
-        icon_pack: fas
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

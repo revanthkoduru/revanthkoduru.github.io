@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Revanth Koduru
+title: Revanth
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate student in ECE
+role: Ph.D. ECE @ Purdue
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://www.purdue.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include modeling of ferroelectric devices and beyond CMOS electronics.
+bio: 
 
 # Interests to show in About widget
 interests:

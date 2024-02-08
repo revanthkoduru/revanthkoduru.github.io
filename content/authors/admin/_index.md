@@ -90,15 +90,9 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+    link: 'mailto:kodurur@purdue.edu'
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
@@ -117,5 +111,7 @@ social:
 highlight_name: true
 ---
 
-I am a graduate student in Integrated circuits and design laboratory at Purdue University. My research interests include ferroelectric devices - modeling and appplications.
+Hello I am Revanth Koduru, a Ph.D. student in the Elmore Family School of Electrical and Computer Engineering at Purdue University. Currently, I am part of the <a href="https://engineering.purdue.edu/ICDL">Integrated Circuits and Design Laboratory</a>, where I have the privilege of being advised by Prof. Sumeet K. Gupta. My research focuses on ferroelectric devices, exploring their modeling and appplications in the realm of beyond CMOS electronics.
+
+Feel free to explore my website to learn more about my academic journey, research endeavors, and contributions to the field. Thank you for visiting!
 {style="text-align: justify;"}

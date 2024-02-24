@@ -72,7 +72,7 @@ skills:
         percent: 80
         icon: cookie-bite
         icon_pack: fas
-      - name: jogging
+      - name: Running
         description: ''
         percent: 30
         icon: person-running

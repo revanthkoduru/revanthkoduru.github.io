@@ -72,7 +72,7 @@ skills:
         percent: 80
         icon: cookie-bite
         icon_pack: fas
-      - name: Running
+      - name: person-running
         description: ''
         percent: 30
         icon: run
@@ -113,5 +113,5 @@ highlight_name: true
 
 Hello! I am Revanth Koduru, a Ph.D. student in the Elmore Family School of Electrical and Computer Engineering at Purdue University. Currently, I am part of the <a href="https://engineering.purdue.edu/ICDL" target="_blank">Integrated Circuits and Design Laboratory</a>, where I have the privilege of being advised by Prof. Sumeet K. Gupta. My research focuses on ferroelectric devices, exploring their modeling and appplications in the realm of beyond CMOS electronics.
 
-Feel free to explore my website to learn more about my academic journey, research endeavors, and contributions to the field. Thank you for visiting!
+Feel free to explore my website to learn more about me, my academic journey, research and personal endeavours. Thank you for visiting!
 {style="text-align: justify;"}

@@ -3,7 +3,7 @@
 title: Revanth
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'Re-vanth'
 
 # Full name (for SEO)
 first_name: Revanth
@@ -30,18 +30,18 @@ bio:
 # Interests to show in About widget
 interests:
   - Ferroelectric devices
-  - Inmemory Computing
-  - Artificial Intelligence
+  - Device Modeling
+  - Phase-field modeling
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Electrical and Computer Engineering
+    - course: Ph.D. in Electrical and Computer Engineering
       institution: Purdue University
       year: 2021 - Present
     - course: B.Tech in Electrical Engineering
       institution: Indian Institute of Technology, Madras
-      year: 2014-2018
+      year: 2014 - 2018
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -111,7 +111,7 @@ social:
 highlight_name: true
 ---
 
-Hello I am Revanth Koduru, a Ph.D. student in the Elmore Family School of Electrical and Computer Engineering at Purdue University. Currently, I am part of the <a href="https://engineering.purdue.edu/ICDL" target="_blank">Integrated Circuits and Design Laboratory</a>, where I have the privilege of being advised by Prof. Sumeet K. Gupta. My research focuses on ferroelectric devices, exploring their modeling and appplications in the realm of beyond CMOS electronics.
+Hello! I am Revanth Koduru, a Ph.D. student in the Elmore Family School of Electrical and Computer Engineering at Purdue University. Currently, I am part of the <a href="https://engineering.purdue.edu/ICDL" target="_blank">Integrated Circuits and Design Laboratory</a>, where I have the privilege of being advised by Prof. Sumeet K. Gupta. My research focuses on ferroelectric devices, exploring their modeling and appplications in the realm of beyond CMOS electronics.
 
 Feel free to explore my website to learn more about my academic journey, research endeavors, and contributions to the field. Thank you for visiting!
 {style="text-align: justify;"}

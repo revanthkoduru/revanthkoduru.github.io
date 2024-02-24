@@ -3,7 +3,7 @@
 title: Revanth
 
 # Name pronunciation (optional)
-name_pronunciation: 'Re-vanth'
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Revanth
@@ -51,7 +51,7 @@ skills:
       - name: Matlab
         description: ''
         percent: 90
-        icon: M
+        icon: m
         icon_pack: fas
       - name: Device Physics
         description: ''
@@ -70,7 +70,7 @@ skills:
       - name: Cooking
         description: ''
         percent: 80
-        icon: cook
+        icon: cookie-bite
         icon_pack: fas
       - name: Running
         description: ''

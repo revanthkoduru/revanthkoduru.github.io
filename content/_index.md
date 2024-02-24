@@ -65,10 +65,10 @@ sections:
         - title: Applications Engineer
           company: Texas Instruments
           company_url: 'https://www.ti.com/'
-          company_logo: Emblem-Texas-Instruments
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: TexasInstruments-Logo
+          location: Bangalore, India
+          date_start: '2018-06-04'
+          date_end: '2020-07-31'
           description: |2-
               Responsibilities include:
 

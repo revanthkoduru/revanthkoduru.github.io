@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Revanth
+title: Revanth Koduru
 
 # Name pronunciation (optional)
 name_pronunciation: ''

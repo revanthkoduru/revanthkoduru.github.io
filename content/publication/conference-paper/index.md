@@ -1,23 +1,25 @@
 ---
-title: 'An example conference paper'
+title: 'Variation and stochasticity in polycrystalline HZO based MFIM: Grain-growth coupled 3D phase field model based analysis'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Atanu K. Saha
+  - Mengewi Si
+  - Xiao Lyu
+  - Peide Ye
+  - Sumeet K Gupta
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2021-12-11T00:00:00Z'
+doi: '10.1109/IEDM19574.2021.9720564'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,32 +27,32 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *2021 IEEE Internation Electron Devices Meeting*
+publication_short: In *IEDM 2021*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We present the first 3D phase-field simulation framework for ferroelectric (FE) Hf1−xZrxO2 (HZO) based MFIM stack that self-consistently couples grain-growth, multi-domain (MD) polarization ( P ) switching and electrostatics. Based on 3D grain-growth models, time-dependent Ginzburg-Landau (TDGL) equations and Poisson's equations, our framework captures the effects of polycrystalline grain size/shape distribution and inter- and intra-grain domain interactions. Using our model, we first analyze the implication of multi-domain P -switching in a single grain signifying the correlation of different macroscopic properties with respect to the crystal angle. Then we analyze, how the F -switching in one grain affects the P -switching in the neighboring grains. Next, we focus on the P -switching in a multi-grain scenario and analyze the sample-to-sample variations and cycle-to-cycle stochasticity in a small area FE sample. Finally, we show how FE thickness scaling (from 7nm to 3nm) can reduce variation and stochasticity in an MFIM stack by approximately 30%.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Introduces novel 3D multi-grain phase-field simulation framework for ferroelectric HZO based MFIM stacks unveiling insights into domain interactions, stocastic behavior and device-to-device variations and highlighting the potential thickness scaling benifits.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9720564'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -65,22 +67,22 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: 
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
+<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/). -->

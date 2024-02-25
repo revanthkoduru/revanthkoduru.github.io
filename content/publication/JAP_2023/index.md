@@ -38,7 +38,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: https://pubs.aip.org/aip/jap/article-abstract/134/8/084104/2908410/Phase-field-simulations-of-polarization-variations?redirectedFrom=fulltext
-url_code: '`'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

@@ -99,9 +99,10 @@ sections:
           location: West Lafayette
           date_start: '2017-10-01'
           date_end: '2018-05-31'
-          description: 
-          Advisor - Prof. V. Janakiraman
-          Machine Learning based analytical and non-linear optimization techniques to extract the statistical parameters characcterizign process variations from the wafer performance data.
+          description: |2-
+            Advisor: Prof. V. Janakiraman
+            
+            Machine Learning based analytical and non-linear optimization techniques to extract the statistical parameters characcterizign process variations from the wafer performance data.
         - title: Digital Design Intern
           company: Precison DAC, Texas Instruments
           company_url: 'https://www.ti.com/'

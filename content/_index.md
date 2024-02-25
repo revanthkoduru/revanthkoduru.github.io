@@ -62,6 +62,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Scholar
+          company: Semiconductor Research Corporation (SRC)
+          company_url: 'https://www.src.org/'
+          company_logo: SRC_logo__2022_
+          location: West Lafayette
+          date_start: '2021-01-30'
+          date_end: ''
+          description: 
         - title: Applications Engineer
           company: High Speed Transceivers, Texas Instruments
           company_url: 'https://www.ti.com/'
@@ -83,7 +91,7 @@ sections:
           location: Bangalore, India
           date_start: '2017-05-01'
           date_end: '2017-07-31'
-          description: Architecture agnostic Layout Optimization
+          description: Automatic Architecture agnostic Layout Optimizer for Digital-to-Analog Converters
     design:
       columns: '2'
   - block: accomplishments

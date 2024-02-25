@@ -67,9 +67,17 @@ sections:
           company_url: 'https://www.src.org/'
           company_logo: SRC_logo__2022_
           location: West Lafayette
-          date_start: '2021-01-30'
+          date_start: '2023-01-01'
           date_end: ''
-          description: 
+          description: Student member of SRC Center for Co-design of Cognitive Systems (COCOSYS) jump center.
+        - title: Research Scholar
+          company: Semiconductor Research Corporation (SRC)
+          company_url: 'https://www.src.org/'
+          company_logo: SRC_logo__2022_
+          location: West Lafayette
+          date_start: '2021-01-30'
+          date_end: '2022-12-31'
+          description: Student member of SRC Logic and Memory Devices (LMD) and Center for Brain-Inspired Computing (CBRIC) jump center.
         - title: Applications Engineer
           company: High Speed Transceivers, Texas Instruments
           company_url: 'https://www.ti.com/'
@@ -92,6 +100,14 @@ sections:
           date_start: '2017-05-01'
           date_end: '2017-07-31'
           description: Automatic Architecture agnostic Layout Optimizer for Digital-to-Analog Converters
+        - title: Research Intern
+          company: Defense Research and Development Organization
+          company_url: 'https://drdo.gov.in/drdo/'
+          company_logo: 
+          location: Chennai, India
+          date_start: '2016-05-01'
+          date_end: '2016-07-31'
+          description: Improve reliability of LEON3 processors under high temperature and radiation conditions
     design:
       columns: '2'
   - block: accomplishments

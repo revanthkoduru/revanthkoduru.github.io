@@ -1,16 +1,20 @@
 ---
-title: "An example journal article"
+title: "Phase-field simulations of polarization variations in polycrystalline Hf0.5Zr0.5O2 based MFIM: Voltage dependence and dynamics"
 authors:
 - admin
-- Robert Ford
+- Imtiaz Ahmed
+- Atanu K Saha
+- Xiao Lyu
+- Peide Ye
+- Sumeet K Gupta
+
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+
+date: "2023-08-23T00:00:00Z"
+doi: "https://doi.org/10.1063/5.0158997"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-25-02T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +22,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "Journal of Applied Physics"
+publication_short: "JAP"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this work, we investigate the device-to-device variations in the remanent polarization of metal–ferroelectric–insulator–metal stacks based on ferroelectric hafnium–zirconium–oxide (HZO). Our study employs a 3D dynamic multi-grain phase-field model to consider the effects of the polycrystalline nature of HZO in conjunction with the multi-domain polarization switching. We explore the dependence of variations on various design factors, such as the ferroelectric thickness and voltage stimuli (set voltage, pulse amplitude, and width), and correlate the trends to the underlying polarization switching mechanisms. Our analysis reveals a non-monotonic dependence of variations on the set voltage due to the coupled effect of the underlying polycrystalline structure variations and the voltage dependence of polarization switching mechanisms. We further report that collapsing of oppositely polarized domains at higher set voltages can lead to an increase in variations, while ferroelectric thickness scaling lowers the overall device-to-device variations. Considering the dynamics of polarization switching, we highlight the key role of voltage and temporal dependence of domain nucleation in dictating the trends in variations. Finally, we show that using a lower amplitude pulse for longer duration to reach a target mean polarization state results in lower variations compared to using a higher amplitude pulse for shorter duration.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study investigates device-to-device variations in remanent polarization of HZO-based MFIM stacks, revealing non-monotonic dependence on applied voltage stimuli and provides optimization strategies to reach a target mean polarization across devices.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://pubs.aip.org/aip/jap/article-abstract/134/8/084104/2908410/Phase-field-simulations-of-polarization-variations?redirectedFrom=fulltext
+url_code: '`'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -61,10 +65,10 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides:
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -72,4 +76,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/). -->

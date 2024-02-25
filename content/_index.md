@@ -62,6 +62,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Graduate Research Assitant
+          company: Purdue University
+          company_url: 'https://engineering.purdue.edu/ECE'
+          company_logo: Purdue_Boilermakers_logo
+          location: West Lafayette
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2-
+            Advisor: Prof. Sumeet K. Gupta
+            
+            Developing physics based computational models for ferroelectric devices.
         - title: Research Scholar
           company: Semiconductor Research Corporation (SRC)
           company_url: 'https://www.src.org/'
@@ -86,8 +97,6 @@ sections:
           date_start: '2018-06-04'
           date_end: '2020-07-31'
           description: |2-
-              Responsibilities include:
-
               * Device Characterization
               * Post Silicon Debug
               * Assisting industry partners 
@@ -102,7 +111,7 @@ sections:
           description: |2-
             Advisor: Prof. V. Janakiraman
             
-            Machine Learning based analytical and non-linear optimization techniques to extract the statistical parameters characcterizign process variations from the wafer performance data.
+            Machine Learning based analytical and non-linear optimization techniques to extract the statistical parameters characterizing process variations from the wafer performance data.
         - title: Digital Design Intern
           company: Precison DAC, Texas Instruments
           company_url: 'https://www.ti.com/'

@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Applications Engineer
-          company: Texas Instruments
+          company: High Speed Transceivers, Texas Instruments
           company_url: 'https://www.ti.com/'
           company_logo: TexasInstruments-Logo
           location: Bangalore, India
@@ -72,17 +72,18 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Device Characterization
+              * Post Silicon Debug
+              * Assisting industry partners 
+              * Data capture system development
+        - title: Digital Design Intern
+          company: Precison DAC, Texas Instruments
+          company_url: 'https://www.ti.com/'
+          company_logo: TexasInstruments-Logo
+          location: Bangalore, India
+          date_start: '2017-05-01'
+          date_end: '2017-07-31'
+          description: Architecture agnostic Layout Optimization
     design:
       columns: '2'
   - block: accomplishments

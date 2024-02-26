@@ -286,13 +286,13 @@ sections:
       phone: 
       appointment_url:
       address:
-        # street: 450 Serra Mall
-        # city: Stanford
-        # region: CA
-        # postcode: '94305'
-        # country: United States
-        # country_code: US
-      # directions: 
+        street: 
+        city: 
+        region: 
+        postcode: 
+        country: 
+        country_code:
+      directions: 
       office_hours:
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:

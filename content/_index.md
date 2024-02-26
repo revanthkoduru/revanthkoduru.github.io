@@ -296,8 +296,8 @@ sections:
       office_hours:
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        # latitude: '37.4275'
-        # longitude: '-122.1697'  
+        latitude: 
+        longitude: 
       contact_links:
       # Automatically link email and phone or display as text?
       autolink: true

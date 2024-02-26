@@ -90,7 +90,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:kodurur@purdue.edu'
+    link: 'mailto:krevantnl@gmail.com'
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=VkZ5iF0AAAAJ&hl=en&inst=5549692440350501774

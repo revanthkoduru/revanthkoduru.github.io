@@ -1,14 +1,15 @@
 ---
-title: "Experimental Investigation of Variations in Polycrystalline Hf0.5Zr0.5O2 (HZO)-based MFIM"
+title: "Small-Signal Capacitance in Ferroelectric Hafnium Zirconium Oxide: Mechanisms and Physical Insights"
 authors:
 - admin
+- Atanu K Saha
 - Martin M Frank
 - Sumeet K Gupta
 
 author_notes:
 
 date: "2025-01-23T00:00:00Z"
-doi: "DOI	https://doi.org/10.1039/D4NR03700F"
+doi: "https://doi.org/10.1039/D4NR03700F"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-25-02T00:00:00Z"

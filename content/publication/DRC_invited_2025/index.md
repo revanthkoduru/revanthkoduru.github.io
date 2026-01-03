@@ -35,7 +35,7 @@ summary: Impact of anisotropic crystal structure and polycrystallinity on device
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

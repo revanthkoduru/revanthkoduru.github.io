@@ -9,7 +9,7 @@ authors:
 author_notes:
 
 date: "2025-10-14T00:00:00Z"
-doi: "https://doi.org/10.1109/JXCDC.2025.3621160."
+doi: "https://doi.org/10.1109/JXCDC.2025.3621160"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-25-02T00:00:00Z"

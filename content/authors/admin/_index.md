@@ -46,43 +46,43 @@ education:
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Matlab
-        description: ''
-        percent: 90
-        icon: m
-        icon_pack: fas
-      - name: Device Physics
-        description: ''
-        percent: 80
-        icon: atom
-        icon_pack: fas
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Cooking
-        description: ''
-        percent: 80
-        icon: cookie-bite
-        icon_pack: fas
-      - name: Running
-        description: ''
-        percent: 30
-        icon: person-running
-        icon_pack: fas
-      - name: Reading
-        description: ''
-        percent: 80
-        icon: book
-        icon_pack: fas
+#skills:
+#  - name: Technical
+#    items:
+#      - name: Matlab
+#        description: ''
+#        percent: 90
+#        icon: m
+#        icon_pack: fas
+#      - name: Device Physics
+#        description: ''
+#        percent: 80
+#        icon: atom
+#        icon_pack: fas
+#      - name: Python
+#        description: ''
+#        percent: 80
+#        icon: python
+#        icon_pack: fab
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Cooking
+#        description: ''
+#        percent: 80
+#        icon: cookie-bite
+#        icon_pack: fas
+#      - name: Running
+#        description: ''
+#        percent: 30
+#        icon: person-running
+#        icon_pack: fas
+#      - name: Reading
+#        description: ''
+#        percent: 80
+#        icon: book
+#        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

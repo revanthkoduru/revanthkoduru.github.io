@@ -88,7 +88,7 @@ sections:
           company_logo: SRC_logo__2022_
           location: West Lafayette
           date_start: '2023-01-01'
-          date_end: ''
+          date_end: '2025-08-09'
           description: Student member of SRC Center for Co-design of Cognitive Systems (COCOSYS) jump center.
         - title: Research Scholar
           company: Semiconductor Research Corporation (SRC)

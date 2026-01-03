@@ -62,17 +62,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Postdoctoral Researcher
+          company: imec USA
+          company_url: 'https://www.imec-int.com/en/usa'
+          company_logo: LOGO-IMEC_black
+          location: West Lafayette
+          date_start: '2025-08-11'
+          date_end: ''
+          description: Working on System Technology Co-Optimization (STCO).
         - title: Graduate Research Assitant
           company: Purdue University
           company_url: 'https://engineering.purdue.edu/ECE'
           company_logo: Purdue_Boilermakers_logo
           location: West Lafayette
           date_start: '2021-01-01'
-          date_end: ''
+          date_end: '2025-08-09'
           description: |2-
             Advisor: Prof. Sumeet K. Gupta
             
-            Developing physics based computational models for ferroelectric devices.
+            * Developed physics based computational models for ferroelectric devices integrating material properties and device physics.
+            * Provided insights into the fundamental mechanisms behind the operation of ferroelectric devices and methods to optimize their performance.
         - title: Research Scholar
           company: Semiconductor Research Corporation (SRC)
           company_url: 'https://www.src.org/'
@@ -97,10 +106,10 @@ sections:
           date_start: '2018-06-04'
           date_end: '2020-07-31'
           description: |2-
-              * Device Characterization
-              * Post Silicon Debug
-              * Assisting industry partners 
-              * Data capture system development
+              * Conducted electrical characterization of high speed transceiver ICs across PVT corners.
+              * Post Silicon debug of the transmitter subchain
+              * Assisted industry partners in integrating the transceiver ICs into their system
+              * Developed FPGA based data capture system utilizing JESD 204B and C protocols.
         - title: Undergraduate Research Assistant
           company: Indian Institute of Technology Madras (IITM)
           company_url: 'https://www.ee.iitm.ac.in/'
@@ -111,7 +120,7 @@ sections:
           description: |2-
             Advisor: Prof. V. Janakiraman
             
-            Machine Learning based analytical and non-linear optimization techniques to extract the statistical parameters characterizing process variations from the wafer performance data.
+            Developed an inverse modeling framework using machine learning and non-linear optimization to extract  statistical process variations parameters from the electrical wafer measurement data.
         - title: Digital Design Intern
           company: Precison DAC, Texas Instruments
           company_url: 'https://www.ti.com/'
@@ -119,7 +128,7 @@ sections:
           location: Bangalore, India
           date_start: '2017-05-01'
           date_end: '2017-07-31'
-          description: Automatic Architecture agnostic Layout Optimizer for Digital-to-Analog Converters
+          description: Devised architecture agnostic layout optimization for Digital-to-Analog Converters (DACs) to minimize impact of process variations on static nonlinearity (DNL/INL).
         - title: Research Intern
           company: Defense Research and Development Organization
           company_url: 'https://drdo.gov.in/drdo/'
@@ -127,7 +136,10 @@ sections:
           location: Chennai, India
           date_start: '2016-05-01'
           date_end: '2016-07-31'
-          description: Improve reliability of LEON3 processors under high temperature and radiation conditions
+          description: |2-
+
+              * Enhanced fault tolerance of LEON3 V8 processor against single event upsets (SEUs) and thermal instability.
+              * Implemented redundancy techniques at block level to mitigate soft errors in high radiation and high temperature environments.
     design:
       columns: '2'
   # - block: accomplishments

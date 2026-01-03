@@ -17,20 +17,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. ECE @ Purdue
+role: Postdoctoral Researcher @ imec USA
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Purdue University
-    url: https://www.purdue.edu/
+  - name: imec USA
+    url: https://www.imec-int.com/en/usa
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # Interests to show in About widget
 interests:
+  - System technology co-optimization (STCO)
   - Ferroelectric devices
-  - Device Modeling
+  - Device modeling
   - Phase-field modeling
 
 # Education to show in About widget
@@ -38,7 +39,7 @@ education:
   courses:
     - course: Ph.D. in Electrical and Computer Engineering
       institution: Purdue University
-      year: 2021 - Present
+      year: 2021 - 2025
     - course: B.Tech in Electrical Engineering
       institution: Indian Institute of Technology, Madras
       year: 2014 - 2018
@@ -111,7 +112,7 @@ social:
 highlight_name: true
 ---
 
-Hello! I am Revanth Koduru, a Ph.D. student in the Elmore Family School of Electrical and Computer Engineering at Purdue University. Currently, I am part of the <a href="https://engineering.purdue.edu/ICDL" target="_blank">Integrated Circuits and Design Laboratory</a>, where I have the privilege of being advised by Prof. Sumeet K. Gupta. My research focuses on ferroelectric devices, exploring their modeling and appplications in the realm of beyond CMOS electronics.
+Hello! I am Revanth Koduru, a Postdoctoral researcher in imec USA working on System Technology Co-optimization (STCO). I hold a Ph.D. from the Elmore Family School of Electrical and Computer Engineering at Purdue University. During my doctoral studies, I was part of the <a href="https://engineering.purdue.edu/ICDL" target="_blank">Integrated Circuits and Design Laboratory</a>, where I had the privilege of being advised by Prof. Sumeet K. Gupta. My research focused on ferroelectric devices, exploring their modeling and appplications in the realm of beyond CMOS electronics.
 
 Feel free to explore my website to learn more about me, my academic journey, research and personal endeavours. Thank you for visiting!
 {style="text-align: justify;"}

@@ -18,6 +18,24 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
+    # UPDATE THIS: A concise summary of who you are.
+    description: 'Postdoctoral Researcher in Semiconductor Technology, Ferroelectrics, and Hardware AI.'
+    # UPDATE THIS: Your Twitter handle, or remove if you don't use it.
+    twitter: '' 
+  analytics:
+    # UPDATE THIS: Add your ID (e.g., G-12345) if you want to track visitor stats.
+    google_analytics: 'G-GSW3X7THET' 
+  verification:
+    # OPTIONAL: Since you verified via HTML file, you can leave this blank.
+    # But adding the code here is a good backup.
+    google: ''
+
+
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
     twitter: 'wowchemy'
   analytics:

@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Revanth Koduru # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://revanthkoduru.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -29,8 +29,8 @@ module:
 ## ADVANCED
 ############################
 
-enableGitInfo: false
-summaryLength: 30
+enableGitInfo: true
+summaryLength: 50
 paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
